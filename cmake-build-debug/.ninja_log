@@ -1,0 +1,16 @@
+# ninja log v5
+10	100	7235058741772322	CMakeFiles/Sorting_Analysis.dir/src/utils.c.obj	9a52106e980ae83c
+21	112	7235058741888232	CMakeFiles/Sorting_Analysis.dir/sorting/quadratic/insertion_sort.c.obj	8aca7330e59afed6
+2	74	7235073806157102	CMakeFiles/Sorting_Analysis.dir/src/main.c.obj	bf1d6bd557fe97e
+1	118	7235078845603943	build.ninja	c58ea5e0c12e4da1
+75	186	7235073807237998	Sorting_Analysis.exe	d3d76bfc352e0d0d
+12	81	7235066854953442	CMakeFiles/Sorting_Analysis.dir/sorting/quadratic/selection_sort.c.obj	39ab8171d6ea969f
+0	107	7235078845603943	build.ninja	c58ea5e0c12e4da1
+1	75	7235078846575536	CMakeFiles/Sorting_Analysis.dir/src/main.c.obj	bf1d6bd557fe97e
+86	196	7235078847765486	Sorting_Analysis.exe	d3d76bfc352e0d0d
+2	76	7235079065860014	CMakeFiles/Sorting_Analysis.dir/src/main.c.obj	bf1d6bd557fe97e
+76	187	7235079066917100	Sorting_Analysis.exe	d3d76bfc352e0d0d
+1	75	7235079315158860	CMakeFiles/Sorting_Analysis.dir/src/main.c.obj	bf1d6bd557fe97e
+75	186	7235079316232293	Sorting_Analysis.exe	d3d76bfc352e0d0d
+3	79	7235079412671832	CMakeFiles/Sorting_Analysis.dir/src/main.c.obj	bf1d6bd557fe97e
+80	200	7235079413828940	Sorting_Analysis.exe	d3d76bfc352e0d0d
